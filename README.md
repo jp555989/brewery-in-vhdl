@@ -21,3 +21,7 @@ The correct order of operations I envisioned is:
 
 Everytime state machine enters packaging state the progress which is the output signal turns high.
 
+The simulation should look similar to this
+![image](https://github.com/user-attachments/assets/a3919af9-fcd7-41a0-af7f-56a5470805e7)
+
+
